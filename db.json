@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "title": "Juicy beef burger",
+      "description": "burger pasa diya dhukay dimu ekdom",
+      "price" : 56,
+      "img": "./burger.png",
+      "id": 1
+    },
+    {
+      "title": "maal burger",
+      "description": "ki je burger re vai",
+      "img": "./burger.png",
+      "price" : 3,
+      "id": 2
+    },
+    {
+      "title": "other stream",
+      "description": "here is stream",
+      "img": "./burger.png",
+      "price" : 343,
+      "id": 3
+    },
+    {
+      "title": "i created this baal ",
+      "description": "this was made my me",
+      "img": "./burger.png",
+      "price" : 56,
+      "id": 4
+    },
+    {
+      "title": "i created this stream",
+      "description": "this was made my me",
+      "img": "./burger.png",
+      "price" : 86,
+      "id": 5
+    }
+  ]
+}
